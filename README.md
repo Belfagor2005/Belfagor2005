@@ -1,5 +1,3 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=Belfagor2005&theme=cyber-streakglow&hide_border=true&locale=en&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Belfagor2005?cardType=github&theme=tokyonight&fontFamily=Adamina&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
